@@ -526,6 +526,7 @@ control_frame.pack()
 run_button.pack()
 visualization_button.pack()
 #reset pack
+reset_frame.pack()
 reset_button.pack()
 #documentation pack
 documentation_frame.pack()
